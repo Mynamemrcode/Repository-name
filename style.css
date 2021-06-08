@@ -1,0 +1,15 @@
+body {
+    background:linear-gradient( #f5f7fa 0%, #c3cfe2 100%);
+    color: gray;
+}
+
+#Gold {
+    background-color:darkgoldenrod;
+}
+
+#cobwebcam {
+    border-style: dotted;
+    border-color: goldenrod;
+    height:180px;
+    width: 200px;
+}
